@@ -67,9 +67,13 @@
 - [ ] B. 301
 - [x] C. 302
 
-### 問12. a.co.jpというドメインとsub.a.co.jpというドメイン、a.co.jp + /abcというpathつきの3パターンでA=Bというcookieをやいた。次にsub.a.co.jp/abcにユーザーがアクセスしてきたときに、cookieはどのように送られるか選べ
+### 問12. 下記の状況でcookieはどのように送られるか選べ
 ```
-
+a.co.jpというドメイン
+sub.a.co.jpというドメイン
+a.co.jp + /abcというpathつき
+の3パターンでA=Bというcookieをやいた。
+次にsub.a.co.jp/abcにユーザーがアクセスしてきたときに、cookieはどのように送られるか
 ```
 
 - [ ] A. A=B
